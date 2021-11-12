@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CtoF</string>
+    <string name="hello_world">Hello World</string>
+    <string name="ctof">CtoF Converter</string>
+    <string name="ctof_hint">Enter a temperature in Celsius</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="about_button_label">About</string>
+    <string name="result_text">Result</string>
+    <string name="about_label">Hello! This is the About Page :3</string>
+    <string name="backstep_to_main">Done</string>
+</resources>
